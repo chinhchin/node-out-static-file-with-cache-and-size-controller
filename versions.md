@@ -7,7 +7,7 @@
 > > > > ### ***Tasks List***
 > > > > Task | Done? | Know?
 > > > > --- | --- | ---
-> > > > Task 1 | [ ] | [ ]
+> > > > get all features | [ ] | [x] |
 ---
 ## **Features**
 > ## **Future**
@@ -24,4 +24,3 @@
 > ## **Past**
 > Features | Done? | Version?
 > --- | --- | ---
-
